@@ -1,0 +1,102 @@
+[
+  {
+    "filename": "document_7_733fbb.pdf",
+    "emetteur": "MACOMPTA.FR",
+    "transaction": "Transaction 1",
+    "date": "30 juin 2025",
+    "nature": "Cession",
+    "prix": "7.30€",
+    "volume": "139",
+    "montant": "1014.70€"
+  },
+  {
+    "filename": "document_1_227ab3.pdf",
+    "emetteur": "TOTALENERGIES SE",
+    "transaction": "Transaction 1",
+    "date": "03 juillet 2025",
+    "nature": "Souscription",
+    "prix": "53.13€",
+    "volume": "66",
+    "montant": "3485.00€"
+  },
+  {
+    "filename": "document_8_8fc51b.pdf",
+    "emetteur": "SOPRA STERIA GROUP",
+    "transaction": "Transaction 1",
+    "date": "01 juillet 2025",
+    "nature": "Acquisition d'actions de performance",
+    "prix": "0.00€",
+    "volume": "578",
+    "montant": "0.00€"
+  },
+  {
+    "filename": "document_2_049e70.pdf",
+    "emetteur": "TOTALENERGIES SE",
+    "transaction": "Transaction 1",
+    "date": "03 juillet 2025",
+    "nature": "Souscription",
+    "prix": "53.13€",
+    "volume": "22",
+    "montant": "1147.50€"
+  },
+  {
+    "filename": "document_5_02a063.pdf",
+    "emetteur": "ALTEN",
+    "transaction": "Transaction 1",
+    "date": "03 juillet 2025",
+    "nature": "Cession",
+    "prix": "78.05€",
+    "volume": "1300",
+    "montant": "101465.00€"
+  },
+  {
+    "filename": "document_4_c68255.pdf",
+    "emetteur": "TOTALENERGIES SE",
+    "transaction": "Transaction 1",
+    "date": "03 juillet 2025",
+    "nature": "Souscription",
+    "prix": "53.13€",
+    "volume": "41",
+    "montant": "2167.50€"
+  },
+  {
+    "filename": "document_3_ace38d.pdf",
+    "emetteur": "TOTALENERGIES SE",
+    "transaction": "Transaction 1",
+    "date": "03 juillet 2025",
+    "nature": "Souscription",
+    "prix": "53.13€",
+    "volume": "19",
+    "montant": "1020.00€"
+  },
+  {
+    "filename": "document_6_c3b12f.pdf",
+    "emetteur": "NACON",
+    "transaction": "Transaction 1",
+    "date": "02 juillet 2025",
+    "nature": "Acquisition",
+    "prix": "0.70€",
+    "volume": "11685",
+    "montant": "8235.59€"
+  },
+  {
+    "filename": "document_9_bd75da.pdf",
+    "emetteur": "SOPRA STERIA GROUP",
+    "transaction": "Transaction 1",
+    "date": "01 juillet 2025",
+    "nature": "Acquisition d'actions de performance",
+    "prix": "0.00€",
+    "volume": "1603",
+    "montant": "0.00€"
+  },
+  {
+    "filename": "document_10_bdabcf.pdf",
+    "emetteur": "SOPRA STERIA GROUP",
+    "transaction": "Transaction 1",
+    "date": "01 juillet 2025",
+    "nature": "Acquisition d'actions de performance",
+    "prix": "0.00€",
+    "volume": "2405",
+    "montant": "0.00€"
+  }
+]
